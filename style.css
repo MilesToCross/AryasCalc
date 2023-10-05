@@ -62,3 +62,7 @@ body{
 .container .btn .equal{
     width: 165px;
 }
+
+.container .btn input.operator{
+    color: #33ffa3;
+}
